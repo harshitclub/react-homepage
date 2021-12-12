@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-homepage/static/css/main.c84134fb.chunk.css",
+    "main.js": "/react-homepage/static/js/main.759a2a43.chunk.js",
+    "main.js.map": "/react-homepage/static/js/main.759a2a43.chunk.js.map",
+    "runtime-main.js": "/react-homepage/static/js/runtime-main.230d0558.js",
+    "runtime-main.js.map": "/react-homepage/static/js/runtime-main.230d0558.js.map",
+    "static/js/2.6d48db9d.chunk.js": "/react-homepage/static/js/2.6d48db9d.chunk.js",
+    "static/js/2.6d48db9d.chunk.js.map": "/react-homepage/static/js/2.6d48db9d.chunk.js.map",
+    "index.html": "/react-homepage/index.html",
+    "static/css/main.c84134fb.chunk.css.map": "/react-homepage/static/css/main.c84134fb.chunk.css.map",
+    "static/js/2.6d48db9d.chunk.js.LICENSE.txt": "/react-homepage/static/js/2.6d48db9d.chunk.js.LICENSE.txt",
+    "static/media/about-photo.453fe7a1.jpg": "/react-homepage/static/media/about-photo.453fe7a1.jpg",
+    "static/media/deepanshu.59e09f86.jpg": "/react-homepage/static/media/deepanshu.59e09f86.jpg",
+    "static/media/food-menu1.b52dcdef.jpg": "/react-homepage/static/media/food-menu1.b52dcdef.jpg",
+    "static/media/food-menu2.2c3e95cc.jpg": "/react-homepage/static/media/food-menu2.2c3e95cc.jpg",
+    "static/media/food-menu3.c6db9a1d.jpg": "/react-homepage/static/media/food-menu3.c6db9a1d.jpg",
+    "static/media/food-menu4.0fac6a20.jpg": "/react-homepage/static/media/food-menu4.0fac6a20.jpg",
+    "static/media/food-menu5.9331befa.jpg": "/react-homepage/static/media/food-menu5.9331befa.jpg",
+    "static/media/food-menu6.5f2ee7b1.jpg": "/react-homepage/static/media/food-menu6.5f2ee7b1.jpg",
+    "static/media/harshit.1c577a5b.jpg": "/react-homepage/static/media/harshit.1c577a5b.jpg",
+    "static/media/App.css": "/react-homepage/static/media/header-image2.2fccbbc6.jpg",
+    "static/media/restraunt-image.4f79cebd.jpg": "/react-homepage/static/media/restraunt-image.4f79cebd.jpg",
+    "static/media/sudhanshu.9aa44a0d.JPG": "/react-homepage/static/media/sudhanshu.9aa44a0d.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.230d0558.js",
+    "static/js/2.6d48db9d.chunk.js",
+    "static/css/main.c84134fb.chunk.css",
+    "static/js/main.759a2a43.chunk.js"
+  ]
+}
